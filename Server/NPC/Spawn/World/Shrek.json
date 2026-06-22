@@ -1,0 +1,16 @@
+{
+  "Environments": [
+    "Env_Zone1_Swamps"
+  ],
+  "NPCs": [
+    {
+      "Weight": 50,
+      "SpawnBlockSet": "Soil",
+      "Id": "Shrek"
+    }
+  ],
+  "DayTimeRange": [
+    20,
+    6
+  ]
+}

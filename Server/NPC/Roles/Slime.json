@@ -1,0 +1,21 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Beasts_Passive_Critter",
+  "Modify": {
+    "Appearance": "Slime",
+    "DropList": "Drop_Frog_Blue",
+    "MaxHealth": 15,
+    "IsMemory": true,
+    "MemoriesCategory": "Critter",
+    "MemoriesNameOverride": "Slime",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Slime.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

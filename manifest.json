@@ -1,0 +1,20 @@
+{
+  "Group": "ugs",
+  "Name": "Shrek",
+  "Version": "2.0.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "DS05",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

@@ -1,0 +1,27 @@
+{
+  "Parent": "Frog_Green",
+  "Model": "NPC/Critter/Slime/Models/Model.blockymodel",
+  "Texture": "NPC/Critter/Slime/Models/Model_Textures/texture.png",
+  "Icon": "Icons/ModelsGenerated/Slime.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      -1,
+      -63
+    ]
+  },
+  "AnimationSets": {
+    "Walk": {
+      "Animations": [
+        {
+          "Animation": "NPC/Critter/Slime/Animations/Walk.blockyanim"
+        }
+      ]
+    }
+  }
+}

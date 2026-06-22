@@ -1,0 +1,22 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/NPC/Intelligent/Shrek/Shrek_walk.ogg"
+      ],
+      "RandomSettings": {
+        "MinPitch": -1,
+        "MinVolume": -1,
+        "MaxPitch": 1
+      },
+      "Probability": 100,
+      "StartDelay": 0.1,
+      "Volume": 10
+    }
+  ],
+  "MaxInstance": 2,
+  "Volume": 10,
+  "PreventSoundInterruption": true,
+  "AudioCategory": "AudioCat_NPC_Shrek",
+  "Parent": "SFX_Attn_Moderate"
+}
